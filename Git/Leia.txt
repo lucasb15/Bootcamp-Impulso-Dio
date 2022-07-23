@@ -1,0 +1,1 @@
+O desafio do Git era mais para testar nossas habilidades com a criação, atualização e sincronização de um repositório no GitHub. Tive alguns problemas no começo porque o local não estava sincronizando com a nuvem, mas consegui resolver sem problemas.
